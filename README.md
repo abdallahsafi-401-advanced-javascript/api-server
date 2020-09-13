@@ -30,6 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Usage
 
+- [swagger](https://app.swaggerhub.com/apis/AbdallahSafi/my-app-server)
 
 ## Architecture
 
