@@ -1,0 +1,73 @@
+{
+  "categories": [
+    {
+      "id": "2",
+      "name": "Men_Fashion",
+      "display_name": "Men's Fashion",
+      "description": "Shop for the latest fashion styles & trends for women at ASOS. Discover our range of men's clothes"
+    },
+    {
+      "id": "3",
+      "name": "Bags_Shoes",
+      "display_name": "Bags & Shoes",
+      "description": "Shop for the latestBags & Shoes"
+    },
+    {
+      "id": "4",
+      "name": "Phones_Telecommunications",
+      "display_name": "Phones & Telecommunications",
+      "description": "Shop for the latest Phones & Telecommunication"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "category": "Women_Fashion",
+      "name": "winter_coat ",
+      "display_name": "Long straight winter coat ",
+      "description": "Simplee Long straight winter coat with rhombus pattern Casual sashes women parkas Deep pockets tailored collar stylish outerwear "
+    },
+    {
+      "id": "3",
+      "category": "Men_Fashion",
+      "name": "Men_Jogging_Pants",
+      "display_name": "Spring Men Jogging Pants",
+      "description": "2020 Spring Men Jogging Pants GYM Training Pant Sportswear Joggers Sports Pants Men Running Swearing Pants Jogging Sweatpants"
+    },
+    {
+      "id": "4",
+      "category": "Men_Fashion",
+      "name": "Waterproof_Jacket",
+      "display_name": "Waterproof Jacket",
+      "description": "Men 2020 Winter Brand New Casual Warm Thick Waterproof Jacket Parkas Coat Men New Autumn Outwear Windproof Hat Parkas Jacket Men"
+    },
+    {
+      "id": "5",
+      "category": "Bags_Shoes",
+      "name": "men_shoes_leather",
+      "display_name": "men shoes leather",
+      "description": "2020 men shoes leather casual spring autumn new designer leisure loafers fashion slip-on all-match flat shoes"
+    },
+    {
+      "id": "6",
+      "category": "Bags_Shoes",
+      "name": "Women_Casual_Shoes",
+      "display_name": "Women Casual Shoes",
+      "description": "Women Casual Shoes Fashion Breathable Walking Mesh Lace Up Flat Shoes Sneakers Women 2019 Tenis Feminino White Vulcanized Shoes"
+    },
+    {
+      "id": "7",
+      "category": "Phones_Telecommunications",
+      "name": "Phone_Holder",
+      "display_name": "Magnetic Car Phone Holder",
+      "description": "Magnetic Car Phone Holder Universal Paste Holder Stand For iPhone Samsung Xiaomi Huawei phone Holder Stand Car Mount Dashboad"
+    },
+    {
+      "id": "8",
+      "category": "Phones_Telecommunications",
+      "name": "Power_Bank",
+      "display_name": "Power Bank 20000mah",
+      "description": "FPU Power Bank 20000mah Portable Charging Charger Powerbank 20000 mah Mobile Phone External Battery Pack Poverbank For Xiaomi mi"
+    }
+  ]
+}
