@@ -1,0 +1,37 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "**Author**: Abdallah Safi **Version**: 1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint:js": "eslint '**/*.js' --ignore-pattern node_modules/",
+    "lint:js:fix": "eslint '**/*.js' --ignore-pattern node_modules/ --fix",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdallahsafi-401-advanced-javascript/api-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdallahsafi-401-advanced-javascript/api-server/issues"
+  },
+  "homepage": "https://github.com/abdallahsafi-401-advanced-javascript/api-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "supertest": "^4.0.2"
+  }
+}
