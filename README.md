@@ -39,6 +39,7 @@ This application was build with Node.js and it includes:
 
 # UML diagram
 
+![UML](./assets/app-server.png)
 
 ## Change Log
 13-09-2020 5:30pm 
