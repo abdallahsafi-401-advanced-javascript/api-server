@@ -1,6 +1,7 @@
 # Dynamic API Server
 
 **Author**: Abdallah Safi
+
 **Version**: 1.0.0 
 
 ## Overview
@@ -34,13 +35,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Architecture
 
-This application was build with Node.js and it includes:
-
+This application was build with express Node.js framwork and it includes:
+- jest: test package
+- @code-fellows/supergoose: to test the HTTP and mongo database
+- morgan: to log the method and the timestamp on the terminal
+- cors: to set rules for cross origins
 
 # UML diagram
 ![uml-diagram](./assets/app-server.jpg)
 
 
 ## Change Log
-15-09-2020 4:30pm 
+16-09-2020 3:00pm 
 
