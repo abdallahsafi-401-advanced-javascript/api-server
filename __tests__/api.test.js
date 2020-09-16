@@ -167,7 +167,7 @@ describe('Store API', () => {
   });
 
   it('should respond with 404 for not found routes', ()=>{
-    return mockRequest.get('/api/v1/notFound').then(result=>{
+    return mockRequest.get('/notFound').then(result=>{
       expect(result.status).toBe(404);
     }).catch(err=> {
       console.log(err);
